@@ -3,10 +3,10 @@
 > Mini-Projet IMS — Année Universitaire 2025/2026
 
 ## Membres du groupe
-| Prénom Nom | Rôle principal |
+| Nom et Prénom | Rôle principal |
 |---|---|
-| ABIA | Modélisation OOP + Exceptions |
-| SIFEDDINE | GUI Qt + Persistance |
+| ABIA Abderahman | Modélisation OOP + Exceptions |
+| SIFEDDINE  Youssra | GUI Qt + Persistance |
 
 ---
 
@@ -102,4 +102,3 @@ g++ -std=c++17 -o test_runner tests/test_main.cpp \
 
 ---
 
-*Date de rendu : 29-05-2026*

@@ -98,7 +98,8 @@ g++ -std=c++17 -o test_runner tests/test_main.cpp \
 
 ## Liens
 - **GitHub** : https://github.com/[votre-repo]
-- **Vidéo démo** : https://youtu.be/[lien-video]
+- **Vidéo démonstration** : https://youtu.be/[lien-video]
+- **Rapport PDF** : https://drive.google.com/file/d/1ik7ko9J_depy7uDhK5mHpCRDXWN-XScO/view?usp=drive_link
 
 ---
 
